@@ -5,6 +5,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ### Reach Me Here 📫
 - **Email**: [tyler.esugars@gmail.com](tyler.esugars@gmail.com)
 - **LinkedIn**: [linkedin.com/in/tyler-sugars](https://www.linkedin.com/in/tyler-sugars/)
+
+## Projects
+<img align="left" width="250" height="150" src="https://xennsoft.com/wp-content/uploads/2017/05/AdobeStock_93278906.jpeg"> **[CSULB Data Analytics Portfolio](https://github.com/tsugars/CSULB-Data-Analytics-Portfolio)**
 <!--
 
 Here are some ideas to get you started:
